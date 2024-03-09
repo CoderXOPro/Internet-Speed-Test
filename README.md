@@ -1,7 +1,7 @@
 # Internet Speed Test
 
 ### Details
-In this tutorial, we're making an internet speed test. This is a system that allows you to see your internet's speed. Click here to see the ([tutorial!](https://))
+In this tutorial, we're making an internet speed test. This is a system that allows you to see your internet's speed. Click here to see the ([tutorial!](https://youtu.be/hR0Qkj4g-NA))
 
 ### Screenshot
 
