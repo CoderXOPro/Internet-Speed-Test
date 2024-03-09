@@ -11,5 +11,4 @@ Here, this is the page I made.
 
 ### Socials
 
-Discord: https://discord.gg/KHGc7HzT2E
-YouTube: https://www.youtube.com/@imlittledoo6969
+Discord: https://discord.gg/KHGc7HzT2E <br> YouTube: https://www.youtube.com/@imlittledoo6969
